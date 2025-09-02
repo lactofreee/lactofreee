@@ -66,7 +66,7 @@ Thanks for visiting my GitHub profile.
 | 2024.12 ~ 2025.01 | **PLAIST** <br/> 위치 기반 데이트 코스 공유 플랫폼 (팀 프로젝트) | - React-Query의 **낙관적 업데이트를 적용**하여 댓글, 좋아요 등 사용자 경험 향상 기여<br/>- 재사용 가능한 반응형 컴포넌트 시스템을 설계<br/>- GitHub Actions 기반 **CI/CD 파이프라인을 구축**| `React` `TypeScript` `React-Query` `Zustand` `Tailwind CSS` `Github Actions` | [GitHub](https://github.com/lactofreee/Plaist)|
 | 2025.01 ~ 2025.02 | **MongSang** <br/> LLM 기반 꿈 일기 시각화/아카이빙 플랫폼 (팀 프로젝트) | - 반응형, 다크 모드 지원 UI 구현 <br> - 컨텐츠 목록 및 상세페이지 구현 | `Vue.js` `TypeScript` `Pinia` `Supabase` `Tailwind CSS` | [GitHub](https://github.com/lactofreee/mongsang)|
 | 2025.02 ~ 2025.03 | **SignalBuddy** <br/> 교통약자를 위한 실시간 보행 보조 서비스 (팀 프로젝트) | - **Frontend Lead**로서 FE 개발 전체 리딩 및 PM/BE와 협업<br/>- **PWA 도입**하여 모바일 경험 제공<br/>- FCM을 활용, **백그라운드 푸시 알림 기능 구현**<br/>- Next.js 렌더링 전략(SSR, SSG) 최적화를 통해 Lighthouse **성능 점수 51.6% 향상** 및 접근성/SEO 100점 달성 | `Next.js` `TypeScript` `TanStack Query` `Zustand` `FCM` `PWA` `vercel` | [GitHub](https://github.com/lactofreee/Signal-Buddy) <br/> [YouTube](https://www.youtube.com/@SignalBuddy) |
-| 2025.02 ~ 2025.08 | **SNAPS** <br/> 사진 기반 마이크로 블로그 (외주 제작, BE 협업) | - 기획, 디자인, FE 담당 <br/>- **PWA 도입**<br/>- **푸시 알림 기능**을 구현 <br> - 네이버, 카카오, 구글 소셜 로그인 기능 제공 | `Next.js` `TypeScript` `TanStack Query` `Zustand` `FCM` `PWA` `vercel` |  |
+| 2025.02 ~ 2025.08 | **SNAPS** <br/> 사진 기반 마이크로 블로그 (외주 제작, BE 협업) | - 기획, 디자인, FE 담당 <br/>- **PWA 도입**<br/>- **푸시 알림 기능**을 구현 <br> - 네이버, 카카오, 구글 소셜 로그인 기능 제공 | `Next.js` `TypeScript` `TanStack Query` `Zustand` `FCM` `PWA` `vercel` | `비공개` |
 
 
 
