@@ -63,10 +63,10 @@ Thanks for visiting my GitHub profile.
 
 | 기간 | 프로젝트 | 주요 역할 및 성과 | 기술 스택 | 링크 |
 | :--- | :--- | :--- | :--- | :--- |
-| 2024.12 ~ 2025.01 | **PLAIST** <br/> 위치 기반 데이트 코스 공유 플랫폼 | - **팀 리더**로서 Git-flow 기반 협업 전략 수립 및 스프린트 운영<br/>- React-Query의 **낙관적 업데이트를 적용**하여 댓글, 좋아요 등 실시간 상호작용의 **사용자 체감 성능 극대화**<br/>- 재사용 가능한 반응형 컴포넌트 시스템을 설계하여 **UI 일관성 확보 및 개발 생산성 향상**<br/>- GitHub Actions 기반 **CI/CD 파이프라인을 구축**하여 배포 자동화 | `React` `TypeScript` `React-Query` `Zustand` `Tailwind CSS` `Github Actions` | [GitHub](https://github.com/lactofreee/Plaist)|
-| 2025.01 ~ 2025.02 | **MongSang** <br/> LLM 기반 꿈 일기 시각화/아카이빙 플랫폼 | - 소셜 로그인(구글, 카카오, 깃허브) 기능 구현<br/>- **다크 모드** 등 전역 상태 관리가 필요한 기능을 Pinia를 활용하여 효율적으로 구현<br/>- 상세 페이지의 이미지 캐러셀 UI를 구현하여 **콘텐츠 몰입도 향상** | `Vue.js` `TypeScript` `Pinia` `Supabase` `Tailwind CSS` | [GitHub](https://github.com/lactofreee/mongsang)|
-| 2025.02 ~ 2025.03 | **SignalBuddy** <br/> 교통약자를 위한 실시간 보행 보조 서비스 | - **Frontend Lead**로서 FE 개발 전체 리딩 및 PM/BE와 협업하여 **MVP 일정 단축에 기여**<br/>- **PWA(Progressive Web App)를 도입**하여 네이티브 앱 없이 앱 설치, 오프라인 동작 등 모바일 경험 제공<br/>- FCM을 활용, 앱이 꺼진 상태에서도 신호등 정보를 받는 **백그라운드 푸시 알림 기능 구현**<br/>- Next.js 렌더링 전략(SSR, SSG) 최적화를 통해 Lighthouse **성능 점수 51.6% 향상** 및 접근성/SEO 100점 달성 | `Next.js` `TypeScript` `TanStack Query` `Zustand` `FCM` `PWA` | [GitHub](https://github.com/lactofreee/Signal-Buddy) <br/> [YouTube](https://www.youtube.com/@SignalBuddy) |
-| 2025.02 ~ 2025.08 | **SNAPS** <br/> 사진 기반 마이크로 블로그 (외주 제작) | - **기획, 디자인, FE 개발 전 과정을 1인 총괄**하며 프로젝트 리드<br/>- 백엔드 개발자와 협업하여 API 명세 정의 및 기능 구현<br/>- **PWA를 도입**하여 모바일 사용자에게 네이티브 앱 수준의 경험 제공<br/>- **푸시 알림 기능**을 구현하여 사용자 재방문 및 참여 유도 | `(추가 필요)` | `(추가 필요)` |
+| 2024.12 ~ 2025.01 | **PLAIST** <br/> 위치 기반 데이트 코스 공유 플랫폼 (팀 프로젝트) | - React-Query의 **낙관적 업데이트를 적용**하여 댓글, 좋아요 등 사용자 경험 향상 기여<br/>- 재사용 가능한 반응형 컴포넌트 시스템을 설계<br/>- GitHub Actions 기반 **CI/CD 파이프라인을 구축**| `React` `TypeScript` `React-Query` `Zustand` `Tailwind CSS` `Github Actions` | [GitHub](https://github.com/lactofreee/Plaist)|
+| 2025.01 ~ 2025.02 | **MongSang** <br/> LLM 기반 꿈 일기 시각화/아카이빙 플랫폼 (팀 프로젝트) | - 반응형, 다크 모드 지원 UI 구현 <br> - 컨텐츠 목록 및 상세페이지 구현 | `Vue.js` `TypeScript` `Pinia` `Supabase` `Tailwind CSS` | [GitHub](https://github.com/lactofreee/mongsang)|
+| 2025.02 ~ 2025.03 | **SignalBuddy** <br/> 교통약자를 위한 실시간 보행 보조 서비스 (팀 프로젝트) | - **Frontend Lead**로서 FE 개발 전체 리딩 및 PM/BE와 협업<br/>- **PWA 도입**하여 모바일 경험 제공<br/>- FCM을 활용, **백그라운드 푸시 알림 기능 구현**<br/>- Next.js 렌더링 전략(SSR, SSG) 최적화를 통해 Lighthouse **성능 점수 51.6% 향상** 및 접근성/SEO 100점 달성 | `Next.js` `TypeScript` `TanStack Query` `Zustand` `FCM` `PWA` `vercel` | [GitHub](https://github.com/lactofreee/Signal-Buddy) <br/> [YouTube](https://www.youtube.com/@SignalBuddy) |
+| 2025.02 ~ 2025.08 | **SNAPS** <br/> 사진 기반 마이크로 블로그 (외주 제작, BE 협업) | - 기획, 디자인, FE 담당 <br/>- **PWA 도입**<br/>- **푸시 알림 기능**을 구현 <br> - 네이버, 카카오, 구글 소셜 로그인 기능 제공 | `Next.js` `TypeScript` `TanStack Query` `Zustand` `FCM` `PWA` `vercel` |  |
 
 
 
